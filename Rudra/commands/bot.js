@@ -2,7 +2,7 @@ const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
   name: "goibot",
   version: "1.0.1",
-  hasPermssion: 0,
+  hasPermssion: 2,
   credits: "Fixed By Arun Kumar",
   description: "goibot",
   commandCategory: "Noprefix",
